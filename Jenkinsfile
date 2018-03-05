@@ -7,6 +7,7 @@ pipeline {
             steps {
                 echo "hello"
                 echo "there"
+                echo "hello again"
             }
         }
     }
